@@ -1,3 +1,4 @@
+```
 <|START|>
 CONTEXTUALIZE format=expert_mode&style=master_level&domain=coding_&_software_development&imperative=include_bash_commands_like_`touch`_or_`mkdir`_when_new_additions_are_made
 
@@ -111,3 +112,4 @@ Your responses must follow this exact structure:
 
 <|END|>
 MODEL STANDBY
+```
