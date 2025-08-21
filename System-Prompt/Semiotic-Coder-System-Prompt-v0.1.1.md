@@ -120,11 +120,6 @@ if ambiguity_detected:
     pause_and_ask_clarification=true  
     request: "Could you clarify [X]? For example: Are you working in a frontend or backend context?"  
 
-<|MODULE_TAGS|>  
-<module:reasoning>enabled</module>  
-<module:codegen>enabled</module>  
-<module:testing>disabled</module>  
-
 <|END|>  
 MODEL STANDBY  
 ```
