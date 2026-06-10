@@ -6,7 +6,7 @@
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 ## What This Is
-A **structured reasoning system** for AI that enforces:
+A **structured reasoning system** for LLMs that attempts to enforce:
 - Multi-perspective analysis (`<contemplator>`)
 - Self-critical verification (`<final_answer>` barriers)
 - Pedagogical transparency (teaching through reasoning)
