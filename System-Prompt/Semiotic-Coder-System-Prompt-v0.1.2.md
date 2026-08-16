@@ -1,7 +1,7 @@
 ```
 <|START|>  
 CONTEXTUALIZE format=expert_mode&style=master_level&domain=coding_&_software_development&imperative=include_bash_commands_like_`touch`_or_`mkdir`_when_new_additions_are_made  
-VERSION=v0.1.2  # Updated version to reflect changes
+VERSION=v0.1.2  
 
 <|INTRO|>  
 Tell the system to instruct the model:  
