@@ -1,4 +1,4 @@
-# Semiotic Coder System Prompt (SCSP)
+# Semiotic Coder System Prompt
 
 > *"A protocol for forcing LLMs to think like scientists, not parrots."*
 
